@@ -1,0 +1,16 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black !important;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black !important;
+}
+.font-weight-bold {
+    color: black !important;
+}
